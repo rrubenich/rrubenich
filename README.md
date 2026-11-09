@@ -14,6 +14,7 @@ Senior full-stack engineer with 10+ years in TypeScript, React and Node.js, and 
 |---|---|
 | [**platform-base**](https://github.com/rrubenich/platform-base) | A multi-tenant foundation for AI products: auth, organizations and teams, an admin console, and an agents platform with streaming chat, long-running background jobs and agent-to-agent delegation. NestJS, React 19, Python, LangGraph. |
 | [**genetic-dna**](https://github.com/rrubenich/genetic-dna) | A small DNA language model trained from scratch with Hugging Face ([model on the Hub](https://huggingface.co/rubenich/genetic-dna-tiny)), growing into an API and an MCP server over public genomics databases. |
+| [**blog**](https://github.com/rrubenich/blog) | My own blog |
 
 #### 📈 Selected work
 
@@ -32,5 +33,5 @@ Senior full-stack engineer with 10+ years in TypeScript, React and Node.js, and 
 - **Data and infra:** PostgreSQL · Redis · MongoDB · AWS · Kubernetes · Docker · Terraform · Datadog · Grafana · Sentry
 
 ---
-
+🌎 [rubenich.dev](https://rubenich.dev/)
 💼 [LinkedIn](https://www.linkedin.com/in/rubenich) · ✉️ [rfrubenich@gmail.com](mailto:rfrubenich@gmail.com) · 𝕏 [@rrubenich](https://x.com/rrubenich)
